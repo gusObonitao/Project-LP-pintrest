@@ -1,7 +1,6 @@
-body{
+body {
     margin-left: 15%;
     margin-right: 15%;
-
 }
     a, button:hover {
         cursor: pointer;
@@ -79,4 +78,56 @@ body{
    }
    .secondSec .container p {
     margin-left: 200px;
+   }
+   .thirdSec h1 {
+    font-size: 50px;
+    font-weight: 200;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   }
+   .thirdSec .container h2 {
+    font-size: 28px;
+    font-weight: 200;
+    border-top: 1px solid rgb(95, 139, 29) ;
+    padding-top: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   }
+   .thirdSec .container p {
+    
+    font-weight: 200;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   }
+   .forthSec .container .text {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+   }
+   .forthSec .container .text h1 {
+    font-size: 50px;
+    font-weight: 200;
+   }
+   .forthSec .container .text h2{
+    font-size: 30px;
+    font-weight: 200;
+   }
+   .forthSec .container .text h3{
+    color:rgb(95, 139, 29) ;
+    
+    font-weight: 200;
+   }
+   footer {
+    text-align: center;
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+   }
+   footer h1 {
+    font-size: 45px;
+    font-weight: 200;
+   }
+   footer button {
+    background-color: rgb(95, 139, 29);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    height: 45px;
+    width: 200px;
+    margin-top: 20px;
+    margin-bottom: 25px;
    }
